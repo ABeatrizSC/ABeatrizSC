@@ -7,10 +7,10 @@
 <div align="center" height="190em">
   
 <a href="https://github.com/ABeatrizSC">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ABeatrizSC&theme=midnight-purple&rank_icon=github" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ABeatrizSC&theme=transparent&rank_icon=github&title_color=6d1997&show_icons=true" />
 </a>
 <a href="https://github.com/ABeatrizSC">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizSC&layout=compact&theme=midnight-purple" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizSC&layout=compact&theme=transparent&title_color=6d1997" />
 </a>
   
   <div style="display: inline_block"><br>
