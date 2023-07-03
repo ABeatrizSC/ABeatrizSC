@@ -1,5 +1,4 @@
 ### Seja bem-vindo 👋
-##
 <ul>
   <li>💻 Aqui você encontra meus projetos e estudos de programação.</li>
   <li>📚 Análise e Desenvolvimento de Sistemas (3/6).</li>
