@@ -1,4 +1,4 @@
-### Seja bem-vindo 👋
+### Bem-Vindo 👋
 <ul>
   <li>💻 Aqui você encontra meus projetos e estudos de programação.</li>
   <li>📚 Análise e Desenvolvimento de Sistemas (3/6).</li>
@@ -7,10 +7,10 @@
 <div align="center" height="190em">
   
 <a href="https://github.com/ABeatrizSC">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ABeatrizSC&theme=transparent&rank_icon=github&title_color=6d1997&show_icons=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ABeatrizSC&theme=transparent&rank_icon=github&title_color=6d1997&show_icons=true&border_color=525252&custom_title=Stats" />
 </a>
 <a href="https://github.com/ABeatrizSC">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizSC&layout=compact&theme=transparent&title_color=6d1997" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizSC&layout=compact&theme=transparent&title_color=6d1997&border_color=525252" />
 </a>
   
   <div style="display: inline_block"><br>
