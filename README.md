@@ -25,7 +25,6 @@
 
 <div align="center"> 
   <h3>Contato:</h3>
-  <a href = "mailto:anabeatrizscarmoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/anabeatrizsantuccicarmoni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  ✉ Email: anabeatrizscarmoni@gmail.com
+  🔗 LinkedIn: Ana Beatriz Santucci Carmoni
 </div>
-![snake gif](https://github.com/ABeatrizSC/ABeatrizSC/blob/output/github-contribution-grid-snake.svg)
