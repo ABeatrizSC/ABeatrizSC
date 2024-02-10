@@ -1,7 +1,7 @@
 ### Bem-Vindo 👋
 <ul>
-  <li>💻 Aqui você encontra meus projetos e estudos de programação.</li>
-  <li>📚 Análise e Desenvolvimento de Sistemas (4/6).</li>
+  <li>📚 Atualmente curso o 5º semestre de Análise e Desenvolvimento de Sistemas;</li>
+  <li>💻 Estou buscando aprimorar os meus conhecimentos na área de Desenvolvimento Web Front-End, e aqui você encontrará todos os meus projetos e estudos de programação.</li>
 </ul>
 
 <div align="center" height="190em">
@@ -25,6 +25,10 @@
 
 <div align="center"> 
   <h3>Contato:</h3>
-  ✉ Email: anabeatrizscarmoni@gmail.com
-  🔗 LinkedIn: Ana Beatriz Santucci Carmoni
+  <a href="mailto:anabeatrizscarmoni@gmail.com">
+    <img src="https://img.shields.io/badge/email-fff.svg?logo=gmail&logoColor=red" alt="E-mail">
+  </a>
+  <a href="http://www.linkedin.com/in/anabeatrizsantuccicarmoni">
+    <img src="https://img.shields.io/badge/LinkedIn-0A78B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
