@@ -1,7 +1,8 @@
-### Bem-Vindo 👋
+### Hello, world 👋
 <ul>
-  <li>📚 Atualmente curso o 5º semestre de Análise e Desenvolvimento de Sistemas;</li>
-  <li>💻 Estou buscando aprimorar os meus conhecimentos na área de Desenvolvimento Web Front-End, e aqui você encontrará todos os meus projetos e estudos de programação.</li>
+  <li>📚 Atualmente curso o 6º semestre de Análise e Desenvolvimento de Sistemas;</li>
+  <li>💻 Estou buscando aprimorar os meus conhecimentos na área de Desenvolvimento Web e aqui você encontrará todos os meus projetos e estudos de programação.</li>
+  <li>🎯 ReactJS e Spring Boot.</li>
 </ul>
 
 <div align="center" height="190em">
@@ -20,6 +21,7 @@
     <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Java" height="30" width="40" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </div>
 </div>
 
@@ -30,7 +32,7 @@
    <a href = "mailto:anabeatrizscarmoni@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="www.linkedin.com/in/anabeatrizsantuccicarmoni" target="_blank">
+  <a href="www.linkedin.com/in/ana-carmoni" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
