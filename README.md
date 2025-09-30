@@ -1,11 +1,11 @@
 ## Hello, world 👋
-🎓 Graduating in Systems Analysis and Development
+🎓 Graduated in Systems Analysis and Development
 
-🚀 Enhancing my Web Development skills with **ReactJS** and **Spring Boot** 
+🚀 Enhancing my Web Development skills with **React.js** and **Spring Boot** 
 
-☁ **AWS Certified Cloud Practitioner**
+☁ **AWS Certified - Cloud Practitioner**
 
-💻 Here, you will find all my programming projects and studies!
+💻 Check out my portfolio <a href="https://ana-carmoni-portfolio.vercel.app/" target="_blank">here</a>
 
 <div align="center">
   <a href="https://github.com/ABeatrizSC">
@@ -20,7 +20,7 @@
 
 <h2 align="center">Technologies</h2>
 
-### Back-end  
+### Backend  
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />  
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />  
@@ -30,9 +30,10 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />  
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  
 </div>
 
-### Front-end  
+### Frontend  
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />  
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1" />  
@@ -50,7 +51,6 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />  
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  
 </div>
 
 ---
@@ -58,7 +58,11 @@
 <h2 align="center">Contact</h2>
 
 <div align="center">
-  <a href = "mailto:anabeatrizscarmoni@gmail.com">
+  <a href = "mailto:anabscarmoni@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge link" target="_blank">
+  </a>
+
+  <a href = "https://ana-carmoni-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6B03F4?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio badge link" target="_blank">
   </a>
 </div>
